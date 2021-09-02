@@ -69,5 +69,7 @@ const compo1 = () => {
     );
   };
   
-  export { compo1, compo2, compo3, compo4,compo5 };
+  export { compo1, compo2, compo3, compo4,compo5 }; 
+
+  
   
